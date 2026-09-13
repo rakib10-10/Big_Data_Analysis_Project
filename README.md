@@ -8,7 +8,7 @@ An end-to-end Big Data analysis project examining New York City taxi trip record
 
 Due to GitHub's file size limits, the primary raw dataset is hosted externally.
 
-* **Download Dataset:** [Google Drive Dataset Link](YOUR_GOOGLE_DRIVE_LINK_HERE)
+* **Download Dataset:** [Google Drive Dataset Link](https://drive.google.com/file/d/1EOmf3ZsG6Rn18bma8hb0cJiNHRSfr6Zh/view?usp=drive_link)
 * **Format:** CSV
 * **Description:** NYC Yellow Taxi trip records covering pickup/dropoff timestamps, passenger counts, trip distances, and fare breakdowns.
 
